@@ -16,16 +16,12 @@ Hey there! :smile: My name is Sarvar. I'm a 27-year-old web developer and Projec
 
 I'm always looking to work with people that are idealists and enthusiast like me, as well as who are interested in creating and working on cool, interesting, and meaningful projects! Shoot me [an e-mail](mailto:khalimovsarvar@gmail.com) 
 
-### Brief summary about my previous experience as Project Engineer
-Skills relevant to the Engineering, Procurement and Contruction of the projects could be handy while building industry relevant softwares.
-
-- Quick learner, specialist in analyzing of operations in different head national and international oil and gas companies. 
+#### Brief summary about my previous experience as Project Engineer
+These skills could be an asset while building industry relevant softwares.
 - Productivity and efficiency in problem solving providing several options to the management. 
 - Good team player, cooperative – prior to take on critical decisions, reaches general consensus among involved parties, always preventing disputes in the future. 
 - Organizational and dedication traits: always try to make commitments, establish a plan or a path to expeditious solutions. 
 - Quite sufficiently and flexibly manage planning of assignments and targets, can efficiently prioritize and follow them. 
-- Critical thinker – identifying/analyzing an issue, finding and evaluation of possible solutions, depending on significance taking sole decision and action or obtaining provisional approval of the management.
-
 
 ## Technologies I'm Learning :books:
 
