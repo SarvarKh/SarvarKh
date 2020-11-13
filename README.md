@@ -49,4 +49,4 @@ Skills relevant to the Engineering, Procurement and Contruction of the projects 
 
 <hr/>
 
-:star: From [@SarvarKhalimov](https://github.com/SarvarKh)
+:star: From [@SarvarKhalimov](https://github.com/SarvarKh?tab=stars)
