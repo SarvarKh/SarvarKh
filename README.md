@@ -12,7 +12,7 @@
 
 ## About Me :wave:
 
-Hey there! :smile: My name is Sarvar. I'm a 27-year-old web developer and Project (Contract, Commissioning) Engineer with 5 years+ experience in the EPC projects and currently reside in Uzbeksitan. I had been learning on my own from the 2019 and currently involved in a Full Stack Developer Program at [the Microverse.org](https://www.microverse.org/), and I'm looking for open-source projects to contribute to and people to collaborate with! I love creating and tinkering with small, static websites using frameworks like Bootstrap.
+Hey there! :smile: My name is Sarvar. I'm a 27-year-old web developer and Project (Contract, Commissioning) Engineer with 5 years+ experience in the EPC projects and currently reside in Uzbeksitan. I had been learning to code on my own from the 2019 and currently involved in a Full Stack Developer Program at [the Microverse.org](https://www.microverse.org/), and I'm looking for open-source projects to contribute to and people to collaborate with!
 
 
 I'm always looking to work with people that are idealists and enthusiast like me, as well as who are interested in creating and working on cool, interesting, and meaningful projects! Shoot me [an e-mail](mailto:khalimovsarvar@gmail.com) 
