@@ -19,14 +19,13 @@ I'm always looking to work with people that are idealists and enthusiast like me
 ### Brief summary about my previous experience as Project Engineer
 Skills relevant to the Engineering, Procurement and Contruction of the projects could be handy while building industry relevant softwares.
 
-- Quick learner, specialist in analyzing of operations in different head national and international oil and gas companies with more than five years of experience. 
+- Quick learner, specialist in analyzing of operations in different head national and international oil and gas companies. 
 - Productivity and efficiency in problem solving providing several options to the management. 
 - Good team player, cooperative – prior to take on critical decisions, reaches general consensus among involved parties, always preventing disputes in the future. 
 - Organizational and dedication traits: always try to make commitments, establish a plan or a path to expeditious solutions. 
 - Quite sufficiently and flexibly manage planning of assignments and targets, can efficiently prioritize and follow them. 
 - Critical thinker – identifying/analyzing an issue, finding and evaluation of possible solutions, depending on significance taking sole decision and action or obtaining provisional approval of the management.
 
-<!-- More info on badges below: https://github.com/badges/shields/blob/master/doc/logos.md -->
 
 ## Technologies I'm Learning :books:
 
