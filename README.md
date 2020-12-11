@@ -12,10 +12,8 @@
 
 ## About Me :wave:
 
-Hey there! :smile: My name is Sarvar. I'm a 27-year-old web developer and Project (Contract, Commissioning) Engineer with 5 years+ experience in the EPC projects and currently reside in Uzbeksitan. I had been learning to code on my own from the 2019 and currently involved in a Full Stack Developer Program at [the Microverse.org](https://www.microverse.org/), and I'm looking for open-source projects to contribute to and people to collaborate with!
+Hey there! :smile: My name is Sarvar. I'm a 27-year-old web developer and Project (Contract, Commissioning) Engineer with 5 years+ experience in the EPC projects and currently reside in Uzbeksitan. I am currently studying a Full Stack Developement at [the Microverse.org](https://www.microverse.org/), and I'm open to new opportunities!
 
-
-I'm always looking to work with people that are idealists and enthusiast like me, as well as who are interested in creating and working on cool, interesting, and meaningful projects! Shoot me [an e-mail](mailto:khalimovsarvar@gmail.com) 
 
 ## README GitHub statistics 
 #### GitHub Stats Card
@@ -30,12 +28,12 @@ Note: Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%),
 
 
 
-#### Brief summary about my previous experience as Project Engineer
-These skills could be an asset while building industry relevant softwares.
-- Productivity and efficiency in problem solving providing several options to the management. 
-- Good team player, cooperative – prior to take on critical decisions, reaches general consensus among involved parties, always preventing disputes in the future. 
-- Organizational and dedication traits: always try to make commitments, establish a plan or a path to expeditious solutions. 
-- Quite sufficiently and flexibly manage planning of assignments and targets, can efficiently prioritize and follow them. 
+#### Brief summary about my experience as Project Engineer
+These skills could be handy while building industry relevant softwares.
+- I was responsible for coordination and performance of 30 ~ 40 expats (scope of work, man hours and many others).
+- I was multi disciplinary/task employee doing HR, Admin, Engineering, Commissioning, Contract works.
+- I believe I excel in problem solving and think I am good team player.
+ 
 
 ## Technologies I'm Learning :books:
 
