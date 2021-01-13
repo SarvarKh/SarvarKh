@@ -20,19 +20,8 @@ Hey there! :smile: My name is Sarvar. I'm a 27-year-old web developer and Projec
 [![SarvarKh's github stats](https://github-readme-stats.vercel.app/api?username=SarvarKh)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Note: Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone). The values are calculated by using the cumulative distribution function using commits, contributions, issues, stars, pull requests, followers, and owned repositories. The implementation is can be investigated at src/calculateRank.js
-
-
 #### Top Languages that used the most.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarvarKh)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-#### Brief summary about my experience as Project Engineer
-These skills could be handy while building industry relevant softwares.
-- I was responsible for coordination and performance of 30 ~ 40 expats (scope of work, man hours and many others).
-- I was multi disciplinary/task employee doing HR, Admin, Engineering, Commissioning, Contract works.
-- I excel in problem solving and I am good team player.
  
 
 ## Technologies I'm Learning :books:
