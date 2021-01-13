@@ -32,7 +32,7 @@ Note: Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%),
 These skills could be handy while building industry relevant softwares.
 - I was responsible for coordination and performance of 30 ~ 40 expats (scope of work, man hours and many others).
 - I was multi disciplinary/task employee doing HR, Admin, Engineering, Commissioning, Contract works.
-- I believe I excel in problem solving and think I am good team player.
+- I excel in problem solving and I am good team player.
  
 
 ## Technologies I'm Learning :books:
