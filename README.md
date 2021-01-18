@@ -20,10 +20,6 @@ Hey there! :smile: My name is Sarvar. I'm a 27-year-old web developer and Projec
 [![SarvarKh's github stats](https://github-readme-stats.vercel.app/api?username=SarvarKh)](https://github.com/anuraghazra/github-readme-stats)
 
 
-#### Top Languages that used the most.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarvarKh)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <hr/>
 
 :star: From [@SarvarKhalimov](https://github.com/SarvarKh?tab=stars)
