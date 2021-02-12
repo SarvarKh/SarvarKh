@@ -1,8 +1,3 @@
-### Hi there 👋 
-
-
-![image](dino.gif)
-
 <h1 align="center">Hi, I'm Sarvar Khalimov! :stars:</h1>
 
 
