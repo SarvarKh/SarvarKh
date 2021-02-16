@@ -1,6 +1,3 @@
-<h1 align="center">Hi, I'm Sarvar Khalimov! :stars:</h1>
-
-
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/sarvar-khalimov-208797143/)](https://www.linkedin.com/in/sarvar-khalimov-208797143/)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mail@gmail.com)](mailto:khalimovsarvar@gmail.com)
 
