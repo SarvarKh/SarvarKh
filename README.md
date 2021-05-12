@@ -4,8 +4,8 @@
 
 ## About Me :wave:
 
-Hey there! :smile: My name is Sarvar. I'm a 27-year-old web developer currently living in Uzbeksitan. 
-I am about to complete a Full Stack Web Developement program at [the Microverse.org](https://www.microverse.org/), and open to new opportunities!
+Hey there! :smile: My name is Sarvar. I'm a 27-year-old web developer currently living in Uzbekistan. 
+I am about to complete a Full Stack Web Development program at [Microverse.org](https://www.microverse.org/), and open to new opportunities!
 
 ### Skills
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
