@@ -17,7 +17,7 @@ Check out JSON data given below OR my [portfolio here](https://sarvarkh.github.i
     "IT Park University - covers all major topics in software engineering, focusing on real-life competencies and hands-on experience"
     ],
   "experience": {
-    "period": "2+ year",
+    "period": "3+ year",
     "start-date": "Dec-2019",
     "where": ["Open Food Network", "Microverse", "Uzbekistan GTL"]
   },
