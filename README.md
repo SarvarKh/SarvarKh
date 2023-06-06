@@ -12,7 +12,10 @@ Check out JSON data given below OR my [portfolio here](https://sarvarkh.github.i
 {
   "name": "Sarvar",
   "identity": "Software Engineer",
-  "education": "Microverse - a remote software development school",
+  "education": [
+    "Microverse - a remote software development school", 
+    "IT Park University - covers all major topics in software engineering, focusing on real-life competencies and hands-on experience"
+    ],
   "experience": {
     "period": "2+ year",
     "start-date": "Dec-2019",
