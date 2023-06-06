@@ -19,7 +19,7 @@ Check out JSON data given below OR my [portfolio here](https://sarvarkh.github.i
   "experience": {
     "period": "3+ year",
     "start-date": "Dec-2019",
-    "where": ["Open Food Network", "Microverse", "Uzbekistan GTL"]
+    "where": ["Epam Systems", "Open Food Network", "Microverse", "Uzbekistan GTL"]
   },
   "skills": [
     "Java", "Spring Boot", "Ruby", "Ruby on Rails",
